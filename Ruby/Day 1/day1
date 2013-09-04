@@ -1,0 +1,16 @@
+Finden Sie
+  - die Ruby-API,
+    -> http://www.ruby-doc.org/core-2.0.0/
+
+  - die freie Onlineversion von Programming Ruby: The Pragmatic Programmer's
+    Guide,
+    -> http://www.ruby-doc.org/docs/ProgrammingRuby/
+
+  - eine Methode, um Teile eines Strings zu ersetzen,
+    -> String#gsub(pattern, replacement)
+
+  - Informationen über Rubys reguläre Ausdrücke und
+    -> http://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm
+
+  - Information über Rubys Wertebereiche ("ranges").
+    -> http://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm
