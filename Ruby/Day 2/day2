@@ -1,0 +1,18 @@
+Wie greift man mit Codeblöcken und ohne sie auf Dateine zu? Welchen Vorteil hab
+die Codeblöcke?
+  - ohne: File.open("name").readline/.getc/.puts
+  - mit: entweder File.open("name") {|file| ...}
+         oder File.open("name").each_line/_byte/_char/_codepoint {...}
+    Vorteil: Die Datei wird automatisch geschlossen, wie mit Pythons 'with'
+
+Wie würden Sie einen Hash in ein Array umwandeln? Können Sie Arrays in Hashes
+umwandeln?
+Hash -> Array: <hash>.to_array
+Array -> Hash: Hash[<array_mit_tupeln>]
+
+Können Sie über einen Hash iterieren?
+Ja, mit #each {|key, value| ...}
+
+Sie können Ruby-Arrays als Stacks verwenden. Welche weiteren gängigen
+Datenstrukturen unterstützen Arrays?
+Man kann Arrays als Queues und als Listen verwenden.
