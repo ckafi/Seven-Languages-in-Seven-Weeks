@@ -1,0 +1,5 @@
+Finden Sie Folgendes:
+  - eine Erörterung über den Einsatz von Scala-Dateien und
+  - was ein Closure von einem Codeblock unterscheidet.
+    -> Ein Codeblock ist eine anonyme Funktion. Ein Closure ist eine Funktion,
+    die sich an Variablen aus dem Kontext ihrer Erstellung "erinnern" kann.
