@@ -1,0 +1,8 @@
+Finden Sie:
+  - Die Scala-API,
+    -> http://www.scala-lang.org/api/current/index.html#package
+  - einen Vergleich zwischen Java und Scala und
+    -> http://www.infoq.com/articles/java-8-vs-scala
+  - eine Besprechung von val im Vergleich mit var.
+    -> http://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala
+
