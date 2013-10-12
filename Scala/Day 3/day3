@@ -1,0 +1,8 @@
+Finden Sie folgendes heraus:
+  - Was würde passieren, wenn Sie im sizer-Programm keinen neuen Aktor für jeden
+    Link erzeugen würden? Wie würde sich das auf die Performance der Anwendung
+    auswirken?
+      => Da Scala Call By Value einsetzt, wird beim Senden jeder Nachricht erst
+      Pageloader.getPageSize(url) ausgewertet. Die Auswertung blockiert, sodass
+      hier im Prinzip keinerlei Nebenläufigkeit statt findet. Die Performance
+      ist dementsprechend langsamer.
