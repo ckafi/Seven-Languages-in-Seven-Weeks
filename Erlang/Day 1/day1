@@ -1,0 +1,8 @@
+Finden Sie
+  - die offizielle Site der Sprache Erlang
+    -> http://www.erlang.org/
+  - die offizielle Dokumentation zu Erlangs Funktionsbibliothek und
+    -> http://www.erlang.org/doc/apps/stdlib/index.html
+  - die Dokumentation zu Erlangs OTP-Bibliothek.
+    -> soweit ich es verstanden habe, wird das gesamte System Erlang/OTB
+    genannt. Dementsprechend ist OTB keine Library.
